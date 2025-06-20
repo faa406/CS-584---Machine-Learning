@@ -1,0 +1,135 @@
+PS C:\Users\meetp\Downloads\Project2_Cursor> python examples/example.py
+Generating synthetic dataset...
+Adding engineered features...
+Splitting dataset into train and test sets...
+
+Starting parameter search...
+ ... (more hidden) ...
+Testing parameter combination 1/6
+
+Starting 5-fold cross-validation...
+ ... (more hidden) ...
+Cross-validation results:
+  Accuracy: 87.44% (±2.39%)
+  Precision: 87.77%
+  Recall: 92.20%
+  F1-score: 89.90%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 89.25%
+  Precision: 88.21%
+  Recall: 93.94%
+  F1-score: 90.99%
+
+Testing parameter combination 2/6
+
+Testing with parameters: {'n_estimators': 200, 'learning_rate': 0.05, 'max_depth': 6, 'min_samples_split': 3}
+
+Starting 5-fold cross-validation...
+Cross-validation progress: 100%|███████████████████████████████████████████████████| 5/5 [48:22<00:00, 580.45s/it]
+Cross-validation results:
+  Accuracy: 88.19% (±2.15%)
+  Precision: 88.93%
+  Recall: 92.10%
+  F1-score: 90.46%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 91.00%
+  Precision: 91.85%
+  Recall: 92.64%
+  F1-score: 92.24%
+
+Testing parameter combination 3/6
+
+Testing with parameters: {'n_estimators': 50, 'learning_rate': 0.2, 'max_depth': 3, 'min_samples_split': 10}
+
+Starting 5-fold cross-validation...
+Cross-validation progress: 100%|████████████████████████████████████████████████████| 5/5 [07:04<00:00, 84.99s/it]
+Cross-validation results:
+  Accuracy: 86.19% (±1.97%)
+  Precision: 86.20%
+  Recall: 92.00%
+  F1-score: 88.98%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 88.75%
+  Precision: 86.33%
+  Recall: 95.67%
+  F1-score: 90.76%
+
+Testing parameter combination 4/6
+
+Testing with parameters: {'n_estimators': 150, 'learning_rate': 0.1, 'max_depth': 5, 'min_samples_split': 2}       
+
+Starting 5-fold cross-validation...
+Cross-validation progress: 100%|███████████████████████████████████████████████████| 5/5 [31:38<00:00, 379.62s/it] 
+Cross-validation results:
+  Accuracy: 88.94% (±2.44%)
+  Precision: 89.43%
+  Recall: 92.81%
+  F1-score: 91.05%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 92.00%
+  Precision: 92.34%
+  Recall: 93.94%
+  F1-score: 93.13%
+
+Testing parameter combination 5/6
+
+Testing with parameters: {'n_estimators': 300, 'learning_rate': 0.03, 'max_depth': 8, 'min_samples_split': 2}      
+
+Starting 5-fold cross-validation...
+Cross-validation progress: 100%|████████████████████████████████████████████████| 5/5 [1:28:49<00:00, 1065.97s/it] 
+Cross-validation results:
+  Accuracy: 86.56% (±1.35%)
+  Precision: 88.23%
+  Recall: 89.94%
+  F1-score: 89.05%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 90.00%
+  Precision: 89.30%
+  Recall: 93.94%
+  F1-score: 91.56%
+
+Testing parameter combination 6/6
+
+Testing with parameters: {'n_estimators': 75, 'learning_rate': 0.15, 'max_depth': 4, 'min_samples_split': 4}       
+
+Starting 5-fold cross-validation...
+Cross-validation progress: 100%|███████████████████████████████████████████████████| 5/5 [13:17<00:00, 159.52s/it] 
+Cross-validation results:
+  Accuracy: 87.94% (±2.84%)
+  Precision: 88.40%
+  Recall: 92.28%
+  F1-score: 90.27%
+Training final model...
+Making predictions...
+Test set results:
+  Accuracy: 89.75%
+  Precision: 88.62%
+  Recall: 94.37%
+  F1-score: 91.40%
+ ... (more hidden) ...
+
+Best performing model:
+Parameters: {'n_estimators': 75, 'learning_rate': 0.15, 'max_depth': 4, 'min_samples_split': 4}
+Cross-validation accuracy: 88.94%
+Test accuracy: 92.00%
+Test precision: 92.34%
+Test recall: 93.94%
+Test F1-score: 93.13%
+
+Example predictions from best model:
+True class: 1, Predicted class: 1, Probability: 0.8703
+True class: 1, Predicted class: 1, Probability: 0.7646
+True class: 0, Predicted class: 0, Probability: 0.1491
+True class: 1, Predicted class: 1, Probability: 0.9352
+True class: 0, Predicted class: 0, Probability: 0.4136
+PS C:\Users\meetp\Downloads\Project2_Cursor>

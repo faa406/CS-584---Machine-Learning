@@ -1,0 +1,90 @@
+PS C:\Users\meetp\Downloads\Project2_Cursor> python examples/apple_quality_example.py
+Loading dataset...
+
+Dataset Information:
+Number of samples: 4000
+Number of features: 8
+
+Feature names:
+['A_id', 'Size', 'Weight', 'Sweetness', 'Crunchiness', 'Juiciness', 'Ripeness', 'Acidity', 'Quality']    
+
+Class distribution:
+Original training set class distribution:
+Class 0: 1596 (49.88%)
+Class 1: 1604 (50.12%)
+Balancing the training set...
+Balanced training set class distribution:
+: 10}
+Training model...
+Making predictions...
+
+Results:
+Test accuracy: 80.62%
+Test precision: 80.64%
+Test recall: 80.62%
+Test F1-score: 80.62%
+
+Confusion Matrix:
+[[318.  82.]
+ [ 73. 327.]]
+
+Testing with parameters: {'n_estimators': 200, 'learning_rate': 0.05, 'max_depth': 6, 'min_samples_split': 5}
+Training model...
+Making predictions...
+
+Results:
+Test accuracy: 88.00%
+Test precision: 88.01%
+Test recall: 88.00%
+Test F1-score: 88.00%
+
+Confusion Matrix:
+[[349.  51.]
+ [ 45. 355.]]
+
+Testing with parameters: {'n_estimators': 150, 'learning_rate': 0.1, 'max_depth': 5, 'min_samples_split': 15}
+Training model...
+Making predictions...
+
+Results:
+Test accuracy: 86.50%
+Test precision: 86.50%
+Test recall: 86.50%
+Test F1-score: 86.50%
+
+Confusion Matrix:
+[[344.  56.]
+ [ 52. 348.]]
+
+Testing with parameters: {'n_estimators': 500, 'learning_rate': 0.01, 'max_depth': 3, 'min_samples_split': 10}     
+Training model...
+Making predictions...
+
+Results:
+Test accuracy: 81.62%
+Test precision: 81.63%
+Test recall: 81.62%
+Test F1-score: 81.62%
+
+Confusion Matrix:
+[[323.  77.]
+ [ 70. 330.]]
+
+Testing with parameters: {'n_estimators': 250, 'learning_rate': 0.03, 'max_depth': 5, 'min_samples_split': 8}      
+Training model...
+Making predictions...
+
+Results:
+Test accuracy: 86.50%
+Test precision: 86.50%
+Test recall: 86.50%
+Test F1-score: 86.50%
+
+Confusion Matrix:
+[[346.  54.]
+ [ 54. 346.]]
+
+Best performing model:
+Parameters: {'n_estimators': 200, 'learning_rate': 0.05, 'max_depth': 6, 'min_samples_split': 5}
+Accuracy: 88.00%
+PS C:\Users\meetp\Downloads\Project2_Cursor>
