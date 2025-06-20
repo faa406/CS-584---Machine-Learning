@@ -1,0 +1,850 @@
+feature,importance
+rating_TV-MA,1.0
+rating_TV-Y7,0.6636271273304547
+type_TV Show,0.6304898264399343
+country_United States,0.5871947385309865
+ International Movies,0.570274505937244
+rating_TV-14,0.4281554508503513
+Dramas,0.33292805485175275
+rating_TV-PG,0.311616918566354
+Comedies,0.2527136188517887
+country_India,0.20821967388305868
+country_Unknown,0.197266479836868
+Documentaries,0.18522341573632992
+International TV Shows,0.17179076731649898
+ Dramas,0.17127307904068398
+Action & Adventure,0.1653877807472084
+ TV Dramas,0.15451632695509368
+ Independent Movies,0.154489080203735
+rating_R,0.13870110700891344
+Children & Family Movies,0.13383604267385296
+ International TV Shows,0.12944931570510493
+duration_value,0.12742764536350085
+ Romantic Movies,0.12628869254749767
+rating_TV-Y,0.11831862069422988
+Kids' TV,0.11149370655973256
+age,0.11086815348060776
+ TV Comedies,0.10920497944560316
+release_year,0.10729349120996072
+ Thrillers,0.10244778510864966
+is_minutes,0.09904414561066595
+country_United Kingdom,0.09795207113446691
+ Comedies,0.09236648710593678
+Crime TV Shows,0.08920586394832952
+rating_PG-13,0.07865482132831259
+ Music & Musicals,0.07836165690757352
+Stand-Up Comedy,0.0759366960366507
+ Romantic TV Shows,0.07438363120920574
+British TV Shows,0.059942852989103526
+Horror Movies,0.057436151864104654
+cast_count,0.05578682990103826
+country_Japan,0.053812333933399764
+Docuseries,0.04977981473231461
+rating_TV-G,0.04822846383579567
+country_South Korea,0.04629223055840313
+ Sports Movies,0.04539308776356658
+ Sci-Fi & Fantasy,0.04283189313585034
+rating_PG,0.04220488280318103
+Anime Series,0.04051591927036225
+country_Canada,0.040025477745905945
+ Docuseries,0.039889243989112526
+ Spanish-Language TV Shows,0.03980750373503648
+ Korean TV Shows,0.036837607836939984
+country_Spain,0.03386771193884349
+ TV Action & Adventure,0.03136101081384462
+country_France,0.03097955629482305
+word_count,0.03044065293464187
+International Movies,0.029562725224171516
+ Reality TV,0.028609088926617596
+Reality TV,0.028581842175258908
+TV Comedies,0.028009660396726557
+text_length,0.02720231237229538
+country_Mexico,0.026565582574716334
+country_Egypt,0.024140621703793514
+country_Turkey,0.024086128201076144
+ LGBTQ Movies,0.02294176464401144
+ TV Mysteries,0.022124362103250937
+country_Nigeria,0.021879141341022788
+ Science & Nature TV,0.020653037529882033
+country_Australia,0.019808388237762847
+ Kids' TV,0.019317946713306545
+ TV Sci-Fi & Fantasy,0.018800258437491557
+country_Brazil,0.018037349399448423
+country_Taiwan,0.017192700107329238
+country_Indonesia,0.017165453355970556
+ Teen TV Shows,0.016974726096459773
+TV Dramas,0.016620518328796886
+"country_United States, Canada",0.016375297566568733
+country_Philippines,0.015803115788036382
+country_Germany,0.01574862228531902
+Movies,0.015176440506786666
+added_year,0.015080135136371605
+ Crime TV Shows,0.014985713247275882
+ TV Horror,0.014713245733689047
+country_Thailand,0.013950336695645911
+Classic Movies,0.01392308994428723
+"country_United Kingdom, United States",0.013868596441569861
+ Horror Movies,0.013868596441569861
+country_China,0.013786856187493812
+country_Argentina,0.013650622430700395
+ TV Thrillers,0.01296945364673331
+Thrillers,0.012560752376353056
+ Faith & Spirituality,0.012533505624994373
+country_Hong Kong,0.011280155062494936
+ Cult Movies,0.011171168057060204
+ Anime Features,0.010925947294832051
+country_Italy,0.010844207040756003
+"country_Canada, United States",0.010081298002712864
+rating_NR,0.009310876099822014
+ Documentaries,0.008419246169833177
+"country_United States, United Kingdom",0.008310259164398443
+Stand-Up Comedy & Talk Shows,0.008119531904887659
+Romantic TV Shows,0.007492856623637941
+country_South Africa,0.00741111636956189
+TV Action & Adventure,0.00716589560733374
+country_Colombia,0.00716589560733374
+ Children & Family Movies,0.007138648855975056
+"country_France, Belgium",0.007002415099181639
+added_month,0.006546929963095225
+country_Malaysia,0.005694571033964835
+Classic & Cult TV,0.005612830779888785
+director_count,0.005361689204680235
+Anime Features,0.005067895752715116
+country_Poland,0.005067895752715116
+ Stand-Up Comedy & Talk Shows,0.004986155498639066
+country_Singapore,0.004986155498639066
+ Classic Movies,0.004877168493204333
+Independent Movies,0.004795428239128281
+Music & Musicals,0.004659194482334865
+country_Netherlands,0.004087012703802513
+"country_United States, Japan",0.003978025698367779
+country_Lebanon,0.0038145451902156795
+country_Pakistan,0.003732804936139629
+country_Russia,0.0036783114334222617
+"country_United States, France",0.003569324427987528
+TV Shows,0.0034330906711941113
+"country_Hong Kong, China",0.003378597168476744
+"country_Japan, United States",0.0033241036657593774
+country_Denmark,0.003269610163042011
+country_Chile,0.003160623157607277
+country_New Zealand,0.0030243894008138597
+country_United Arab Emirates,0.0029698958980964927
+"country_United States, Mexico",0.0028881556440204428
+country_Sweden,0.002697428384509659
+"country_Australia, United States",0.002642934881792292
+country_Norway,0.0026156881304336085
+rating_G,0.002597561923827545
+"country_United States, Germany",0.002506701124998875
+rating_TV-Y7-FV,0.002457364628864345
+country_Israel,0.0023977141195641407
+"country_Germany, United States",0.0023977141195641407
+ Stand-Up Comedy,0.0023704673682054577
+"country_India, United States",0.0023704673682054577
+"country_Mexico, United States",0.0021524933573359903
+"country_China, Hong Kong",0.002125246605977307
+"country_Argentina, Spain",0.0019617660978252065
+TV Horror,0.001934519346466523
+rating_missing,0.0018680185986629891
+"country_United Kingdom, Canada, United States",0.0017710388383144226
+Sci-Fi & Fantasy,0.0017165453355970557
+country_Belgium,0.001689298584238372
+country_Ireland,0.0016620518328796887
+"country_United States, China",0.0016075583301623218
+"country_United States, France, Japan",0.0015803115788036385
+"country_United Kingdom, France",0.0015530648274449661
+"country_United States, Australia",0.001553064827444955
+ Classic & Cult TV,0.0015258180760862716
+"country_France, United States",0.0014713245733689046
+"country_India, France",0.0014713245733689046
+country_Saudi Arabia,0.0014713245733689046
+"country_United States, India",0.0014713245733689046
+country_Kuwait,0.0013623375679341712
+country_Romania,0.0013623375679341712
+country_Austria,0.0013623375679341712
+country_Vietnam,0.0013350908165754875
+rating_UR,0.0013079226535900117
+"country_Italy, France",0.0013078440652168042
+country_Hungary,0.0012533505624994375
+"country_United States, Italy",0.0011988570597820704
+country_Iceland,0.0011988570597820704
+Cult Movies,0.001171610308423387
+"country_Israel, United States",0.0011171168057060202
+"country_Italy, United States",0.0011171168057060202
+"country_United States, New Zealand",0.001089870054347337
+"country_China, United Kingdom",0.0010626233029886534
+"country_United States, Czech Republic",0.0010626233029886534
+"country_South Korea, United States",0.0009808830489126032
+"country_United Kingdom, United States, Spain, Germany, Greece, Canada",0.0009808830489126032
+"country_United States, Bulgaria",0.0009808830489126032
+country_Uruguay,0.0009536362975539199
+"country_Belgium, France",0.0008991427948365529
+"country_United States, Spain",0.0008991427948365529
+"country_Poland, United States",0.0008991427948365529
+"country_Spain, Argentina",0.0008991427948365529
+"country_United States, Colombia",0.0008991427948365529
+"country_Spain, France",0.0008991427948365529
+"country_Denmark, United States",0.0008991427948365529
+"country_Spain, Germany",0.0008991427948365529
+country_Ghana,0.000844649292119186
+"country_United Kingdom, Canada",0.000844649292119186
+"country_France, Canada",0.000844649292119186
+"country_Sweden, United States",0.0008174025407605027
+"country_South Africa, United States",0.0007901557894018193
+"country_Canada, Australia",0.0007629090380431358
+"country_United Kingdom, France, United States",0.0007356622866844523
+"country_United States, Sweden",0.0007356622866844523
+"country_United States, South Korea",0.0007356622866844523
+"country_China, Canada, United States",0.0007356622866844523
+"country_Australia, Canada",0.000708415535325769
+"country_Canada, United States, France",0.000708415535325769
+"country_United States, Hong Kong",0.0006811687839670856
+"country_United States, Chile",0.0006811687839670856
+"country_Spain, Italy",0.0006539220326084021
+"country_Canada, United Kingdom, United States",0.0006539220326084021
+country_Bangladesh,0.0006266752812497188
+"country_China, Taiwan",0.0006266752812497188
+"country_United States, South Africa",0.0006266752812497188
+"country_Thailand, United States",0.0006266752812497188
+"country_United States, Russia",0.0006266752812497188
+"country_Canada, United States, United Kingdom",0.0006266752812497188
+"country_United Kingdom,",0.0005994285299003248
+"country_Hong Kong, United States",0.0005994285298910352
+"country_United States, South Korea, China",0.0005994285298910352
+"country_Brazil, France",0.0005994285298910352
+"country_United States, Ireland",0.0005994285298910352
+"country_United Kingdom, Japan, United States",0.0005994285298910352
+country_Switzerland,0.0005994285298910352
+"country_United States, Argentina",0.0005994285298910352
+"country_France, Egypt",0.0005994285298910352
+Romantic Movies,0.0005721817785323519
+"country_Canada, United Kingdom",0.0005721817785323519
+"country_United Kingdom, Nigeria",0.0005721817785323519
+"country_United Kingdom, Germany",0.0005721817785323519
+country_Kenya,0.0005721817785323519
+"country_France, United Kingdom, United States",0.0005721817785323519
+"country_Pakistan, United States",0.0005721817785323519
+"country_France, Japan, United States",0.0005721817785323519
+Spanish-Language TV Shows,0.0005449350271736685
+"country_United Arab Emirates, United States",0.0005449350271736685
+"country_United States, United Arab Emirates",0.0005449350271736685
+"country_India, Germany",0.0005449350271736685
+"country_United Kingdom, India",0.0005449350271736685
+country_Ukraine,0.0005449350271736685
+"country_Spain, Mexico",0.0005449350271736685
+"country_United States, United Kingdom, Germany",0.0005176882758149851
+"country_Serbia, United States",0.0005176882758149851
+country_Peru,0.0005176882758149851
+"country_Netherlands, Belgium",0.0005176882758149851
+"country_Spain, United Kingdom",0.0005176882758149851
+"country_Egypt, France",0.0004904415244563016
+"country_Lebanon, Canada, France",0.0004904415244563016
+"country_United Kingdom, Italy",0.0004904415244563016
+"country_Canada, South Africa",0.0004904415244563016
+"country_Colombia, Mexico, United States",0.0004904415244563016
+"country_Czech Republic, United States",0.0004904415244563016
+"country_Canada, India",0.0004904415244563016
+"country_Hong Kong, China, United States",0.00046319477309761815
+"country_Ireland, United Kingdom",0.00046319477309761815
+"country_India, United Kingdom",0.00046319477309761815
+"country_Norway, Iceland, United States",0.00043594802173893473
+"country_United States, China, Hong Kong",0.00040870127038025137
+"country_United States, Germany, Canada",0.00040870127038025137
+"country_United Kingdom, France, Germany, United States",0.00040870127038025137
+"country_United Kingdom, Belgium",0.00040870127038025137
+"country_United Kingdom, Ireland",0.00040870127038025137
+"country_United Kingdom, Germany, United States",0.00040870127038025137
+"country_Denmark, China",0.00040870127038025137
+"country_United States, United Kingdom, France",0.00040870127038025137
+"country_Denmark, Singapore, Canada, United States",0.0003814545190215679
+"country_United Kingdom, United States, Ireland",0.0003814545190215679
+"country_China, Spain, South Korea, United States",0.0003814545190215679
+"country_France, Australia, Germany",0.0003814545190215679
+"country_Germany, Australia, France, China",0.0003814545190215679
+"country_Russia, United States",0.0003814545190215679
+"country_Canada, Brazil",0.0003814545190215679
+"country_Canada, France",0.0003814545190215679
+"country_France, South Korea, Japan, United States",0.0003814545190215679
+"country_Germany, United Kingdom",0.0003814545190215679
+"country_United States, France, South Korea, Indonesia",0.0003814545190215679
+"country_Netherlands, Germany, Italy, Canada",0.0003814545190215679
+"country_Germany, China, United Kingdom",0.0003814545190215679
+"country_United States, New Zealand, Japan",0.0003814545190215679
+"country_Japan, Canada",0.0003814545190215679
+"country_United States, United Kingdom, Canada",0.0003814545190215679
+"country_United States, Japan, Canada",0.0003814545190215679
+country_Mauritius,0.0003814545190215679
+"country_United States, Netherlands, Japan, France",0.0003814545190215679
+"country_United States, Kazakhstan",0.0003814545190215679
+"country_India, Mexico",0.0003814545190215679
+"country_Ireland, United Kingdom, United States",0.0003814545190215679
+"country_Canada, United States, Cayman Islands",0.0003814545190215679
+"country_Canada, United States, United Kingdom, France, Luxembourg",0.0003814545190215679
+country_Cyprus,0.0003542077676628845
+"country_Turkey, United States",0.0003542077676628845
+"country_United Kingdom, Singapore",0.0003542077676628845
+"country_United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",0.0003542077676628845
+"country_Ireland, Canada",0.0003542077676628845
+"country_South Korea, France",0.0003542077676628845
+"country_United States, Singapore",0.0003542077676628845
+"country_France, United States, Canada",0.0003542077676628845
+"country_Germany, United States, Italy",0.0003542077676628845
+"country_China, United States",0.0003542077676628845
+"country_Canada, United States, Ireland",0.0003542077676628845
+country_Belarus,0.0003542077676628845
+"country_Ireland, United States, United Kingdom",0.0003542077676628845
+"country_United States, France, Denmark",0.0003542077676628845
+"country_Russia, Spain",0.0003542077676628845
+"country_South Korea, Canada, United States, China",0.0003542077676628845
+"country_France, United Kingdom",0.0003542077676628845
+"country_United Kingdom, Ireland, United States",0.00032696101630420106
+"country_China, India, Nepal",0.00032696101630420106
+"country_United Kingdom, India, United States",0.00032696101630420106
+"country_Italy, India",0.00032696101630420106
+"country_Israel, Germany, France",0.00032696101630420106
+"country_United States, Canada, Japan, Panama",0.00032696101630420106
+"country_United States, Brazil, South Korea, Mexico, Japan, Germany",0.00032696101630420106
+"country_United States, Botswana",0.00032696101630420106
+"country_Egypt, Saudi Arabia",0.00032696101630420106
+"country_United States, Australia, South Africa, United Kingdom",0.00032696101630420106
+"country_United States, Bermuda, Ecuador",0.00032696101630420106
+"country_India, Germany, Austria",0.00032696101630420106
+"country_United Kingdom, Malawi",0.00032696101630420106
+"country_India, Nepal",0.00032696101630420106
+country_Georgia,0.00032696101630420106
+"country_Romania, United Kingdom",0.00032696101630420106
+"country_France, Luxembourg, United States",0.00032696101630420106
+"country_Germany, Australia",0.00032696101630420106
+rating_NC-17,0.00032696101630420106
+country_Namibia,0.00032696101630420106
+"country_Netherlands, Denmark, South Africa",0.00032696101630420106
+"country_United States, France, United Kingdom",0.00032696101630420106
+"country_Singapore, Japan, France",0.00032696101630420106
+"country_Hong Kong, Taiwan",0.00032696101630420106
+"country_United States, India, South Korea, China",0.00032696101630420106
+"country_Lebanon, Palestine, Denmark, Qatar",0.00032696101630420106
+"country_Lebanon, Syria",0.00032696101630420106
+"country_Italy, United States, Argentina",0.00032696101630420106
+"country_Germany, France, Russia",0.00032696101630420106
+"country_Germany, Belgium",0.00032696101630420106
+"country_Japan, Canada, United States",0.00032696101630420106
+"country_Indonesia, Netherlands",0.00032696101630420106
+"country_United Kingdom, Germany, Canada",0.00032696101630420106
+"country_Austria, Czech Republic",0.00032696101630420106
+"country_Australia, New Zealand",0.00032696101630420106
+"country_, South Korea",0.0002997142649455176
+"country_United Kingdom, France, United States, Belgium",0.0002997142649455176
+"country_Australia, New Zealand, United States",0.0002997142649455176
+"country_Australia, United Arab Emirates",0.0002997142649455176
+"country_United Kingdom, France, Canada, Belgium, United States",0.0002997142649455176
+"country_India, United Kingdom, Canada, United States",0.0002997142649455176
+"country_Croatia, Slovenia, Serbia, Montenegro",0.0002997142649455176
+"country_United Kingdom, France, Germany, Spain",0.0002997142649455176
+"country_Argentina, United States",0.0002997142649455176
+"country_Argentina, United States, Mexico",0.0002997142649455176
+"country_United Kingdom, Germany, United States, France",0.0002997142649455176
+country_Croatia,0.0002997142649455176
+"country_United States, Hungary, Ireland, Canada",0.0002997142649455176
+"country_Lebanon, France",0.0002997142649455176
+"country_Lebanon, Qatar",0.0002997142649455176
+"country_Germany, France",0.0002997142649455176
+"country_Argentina, France, United States, Germany, Qatar",0.0002997142649455176
+"country_Argentina, Italy",0.0002997142649455176
+"country_Austria, United States",0.0002997142649455176
+"country_Austria, Germany",0.0002997142649455176
+"country_Italy, United Kingdom",0.0002997142649455176
+"country_Argentina, Venezuela",0.0002997142649455176
+"country_Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",0.0002997142649455176
+"country_Australia, Iraq",0.0002997142649455176
+"country_Italy, United Kingdom, France",0.0002997142649455176
+"country_Mauritius, South Africa",0.0002997142649455176
+"country_Italy, Switzerland, Albania, Poland",0.0002997142649455176
+"country_Italy, Turkey",0.0002997142649455176
+"country_Malaysia, Singapore, Hong Kong",0.0002997142649455176
+"country_Germany, Czech Republic",0.0002997142649455176
+"country_Lebanon, United Arab Emirates",0.0002997142649455176
+"country_Lebanon, United States, United Arab Emirates",0.0002997142649455176
+"country_Mexico, Netherlands",0.0002997142649455176
+"country_Mexico, France, Colombia",0.0002997142649455176
+"country_United States, Poland",0.0002997142649455176
+"country_United States, Philippines",0.0002997142649455176
+"country_Belgium, Netherlands",0.0002997142649455176
+"country_Belgium, Ireland, Netherlands, Germany, Afghanistan",0.0002997142649455176
+"country_Greece, United States",0.0002997142649455176
+"country_United States, Senegal",0.0002997142649455176
+"country_Netherlands, Belgium, Germany, Jordan",0.0002997142649455176
+"country_Brazil, United States",0.0002997142649455176
+"country_Brazil, United Kingdom",0.0002997142649455176
+"country_United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",0.0002997142649455176
+"country_United States, France, Canada",0.0002997142649455176
+"country_Philippines, United States",0.0002997142649455176
+"country_Puerto Rico, United States, Colombia",0.0002997142649455176
+"country_France, Israel, Germany, United States, United Kingdom",0.0002997142649455176
+"country_Portugal, Spain",0.0002997142649455176
+"country_France, Morocco",0.0002997142649455176
+"country_France, Lebanon, United Kingdom",0.0002997142649455176
+"country_France, Norway, Lebanon, Belgium",0.0002997142649455176
+"country_France, Netherlands, Singapore",0.0002997142649455176
+"country_Portugal, France, Poland, United States",0.0002997142649455176
+"country_Paraguay, Argentina",0.0002997142649455176
+"country_Pakistan, United Arab Emirates",0.0002997142649455176
+"country_Mexico, United States, Spain, Colombia",0.0002997142649455176
+country_Mozambique,0.0002997142649455176
+"country_Belgium, France, Netherlands",0.0002997142649455176
+"country_United States, Nigeria",0.0002997142649455176
+"country_Mexico, Finland",0.0002997142649455176
+"country_Uruguay, Argentina, Germany, Spain",0.0002997142649455176
+"country_United States, Uruguay",0.0002997142649455176
+"country_Uruguay, Argentina",0.0002997142649455176
+"country_Mexico, France",0.0002997142649455176
+"country_Romania, Bulgaria, Hungary",0.0002997142649455176
+"country_Romania, France, Switzerland, Germany",0.0002997142649455176
+"country_Norway, United States",0.0002997142649455176
+"country_Philippines, Qatar",0.0002997142649455176
+"country_Philippines, Canada, United Kingdom, United States",0.0002997142649455176
+"country_Mexico, Argentina",0.0002997142649455176
+"country_Mexico, Brazil",0.0002997142649455176
+"country_Norway, Denmark",0.0002997142649455176
+"country_Norway, Denmark, Sweden",0.0002997142649455176
+"country_Denmark, Brazil, France, Portugal, Sweden",0.0002997142649455176
+"country_Spain, Portugal",0.0002997142649455176
+"country_Spain, Belgium",0.0002997142649455176
+"country_Finland, Sweden, Norway, Latvia, Germany",0.0002997142649455176
+"country_Spain, Belgium, United States",0.0002997142649455176
+"country_United States,",0.0002997142649455176
+"country_United Kingdom, West Germany",0.0002997142649455176
+"country_South Korea, Japan",0.0002997142649455176
+"country_Finland, France",0.0002997142649455176
+"country_Finland, Germany, Belgium",0.0002997142649455176
+"country_Denmark, Sweden, Israel, United States",0.0002997142649455176
+"country_Denmark, United Kingdom, Sweden",0.0002997142649455176
+"country_Chile, Brazil",0.0002997142649455176
+"country_Chile, Argentina",0.0002997142649455176
+"country_Chile, Italy",0.0002997142649455176
+"country_Italy, Germany",0.0002997142649455176
+"country_Italy, Belgium",0.0002997142649455176
+"country_Italy, Brazil, Greece",0.0002997142649455176
+country_West Germany,0.0002997142649455176
+"country_South Africa, Germany, Netherlands, France",0.0002997142649455176
+"country_Singapore, United States",0.0002997142649455176
+"country_Indonesia, United States",0.0002997142649455176
+"country_Indonesia, United Kingdom",0.0002997142649455176
+"country_Italy, France, Switzerland",0.0002997142649455176
+"country_United States, Mexico, Colombia",0.0002997142649455176
+"country_United States, Mexico, Spain, Malta",0.0002997142649455176
+"country_Egypt, Algeria",0.0002997142649455176
+"country_France, Brazil, Spain, Belgium",0.0002997142649455176
+"country_France, Belgium, Italy",0.0002997142649455176
+"country_South Korea, China, United States",0.0002997142649455176
+country_Senegal,0.0002997142649455176
+"country_Serbia, South Korea, Slovenia",0.0002997142649455176
+"country_United States, China, United Kingdom",0.0002997142649455176
+"country_United States, Colombia, Mexico",0.0002997142649455176
+"country_Czech Republic, Slovakia",0.0002997142649455176
+"country_Czech Republic, France",0.0002997142649455176
+"country_China, Morocco, Hong Kong",0.0002997142649455176
+"country_United Kingdom, Israel, Russia",0.0002997142649455176
+"country_United Kingdom, Egypt, United States",0.0002997142649455176
+"country_United Kingdom, Canada, United States, Germany",0.0002997142649455176
+"country_India, Switzerland",0.0002997142649455176
+"country_Ireland, South Africa",0.0002997142649455176
+"country_Ireland, United Kingdom, France, Germany",0.0002997142649455176
+"country_Ireland, Canada, United States, United Kingdom",0.0002997142649455176
+"country_Chile, Spain, Argentina, Germany",0.0002997142649455176
+"country_Chile, United States, France",0.0002997142649455176
+"country_United Kingdom, Kenya",0.0002997142649455176
+"country_India, Japan",0.0002997142649455176
+"country_Canada, Spain",0.0002997142649455176
+country_Cambodia,0.0002997142649455176
+"country_United Kingdom, Australia",0.0002997142649455176
+"country_Cambodia, United States",0.0002997142649455176
+"country_United Arab Emirates, United Kingdom, India",0.0002997142649455176
+"country_India, Turkey",0.0002997142649455176
+"country_Canada, Nigeria",0.0002997142649455176
+"country_Canada, Norway",0.0002997142649455176
+"country_United Arab Emirates, Jordan, Lebanon, Saudi Arabia",0.0002997142649455176
+"country_United Arab Emirates, Romania",0.0002997142649455176
+"country_United Kingdom, Thailand",0.0002997142649455176
+"country_United Kingdom, Spain, United States, Germany",0.0002997142649455176
+"country_United Kingdom, Ukraine, United States",0.0002997142649455176
+"country_Syria, France, Lebanon, Qatar",0.0002997142649455176
+"country_Taiwan, China, France, United States",0.0002997142649455176
+"country_Spain, France, United States",0.0002997142649455176
+"country_Spain, France, Uruguay",0.0002997142649455176
+"country_Spain, Germany, Denmark, United States",0.0002997142649455176
+"country_Turkey, India",0.0002997142649455176
+"country_Turkey, France, Germany, Poland",0.0002997142649455176
+"country_Spain, Switzerland",0.0002997142649455176
+"country_Spain, United States",0.0002997142649455176
+"country_Spain, Mexico, France",0.0002997142649455176
+"country_Canada, Ireland, United States",0.0002997142649455176
+"country_Canada, Japan, Netherlands",0.0002997142649455176
+"country_United Kingdom, United States, Japan",0.0002997142649455176
+"country_United Kingdom, Canada, Italy",0.0002997142649455176
+"country_United Kingdom, Lithuania",0.0002997142649455176
+"country_United Kingdom, Pakistan",0.0002997142649455176
+"country_United Kingdom, Namibia, South Africa, Zimbabwe, United States",0.0002997142649455176
+"country_United Kingdom, Poland",0.0002997142649455176
+"country_United Kingdom, South Africa, Australia, United States",0.0002997142649455176
+"country_United Kingdom, Belgium, Sweden",0.0002997142649455176
+country_Cameroon,0.0002997142649455176
+"country_United Kingdom, Spain",0.0002997142649455176
+"country_United Kingdom, Spain, Belgium",0.0002997142649455176
+"country_Turkey, South Korea",0.0002997142649455176
+"country_United Arab Emirates, Jordan",0.0002997142649455176
+"country_Australia, Germany",0.0002724675135868342
+"country_Netherlands, Denmark, France, Germany",0.0002724675135868342
+"country_United States, Brazil, India, Uganda, China",0.0002724675135868342
+country_Zimbabwe,0.0002724675135868342
+"country_Uruguay, Guatemala",0.0002724675135868342
+"country_Netherlands, Germany, Denmark, United Kingdom",0.0002724675135868342
+TV Sci-Fi & Fantasy,0.0002452207622281508
+"country_United Kingdom, Hong Kong",0.0002452207622281508
+"country_Kuwait, United States",0.0002452207622281508
+"country_Lebanon, United Arab Emirates, France, Switzerland, Germany",0.0002452207622281508
+country_Jordan,0.0002452207622281508
+"country_United States, Iceland",0.0002452207622281508
+"country_Philippines, Singapore",0.0002452207622281508
+"country_Georgia, Germany, France",0.0002452207622281508
+country_Venezuela,0.0002452207622281508
+"country_France, Lebanon",0.0002452207622281508
+"country_France, Netherlands, South Africa, Finland",0.0002452207622281508
+"country_France, New Zealand",0.0002452207622281508
+"country_Norway, Germany",0.0002452207622281508
+"country_Pakistan, Norway, United States",0.0002452207622281508
+"country_Netherlands, United States",0.0002452207622281508
+"country_Nigeria, United Kingdom",0.0002452207622281508
+"country_United States, Hungary",0.0002452207622281508
+"country_Kenya, United States",0.0002452207622281508
+"country_France, United Kingdom, India",0.0002452207622281508
+"country_France, Senegal, Belgium",0.0002452207622281508
+"country_United States, Venezuela",0.0002452207622281508
+"country_United States, United Kingdom, Morocco",0.0002452207622281508
+"country_Germany, United States, Sweden",0.0002452207622281508
+"country_Brazil, India, China, United States",0.0002452207622281508
+"country_United States, Greece, United Kingdom",0.0002452207622281508
+"country_Germany, Jordan, Netherlands",0.0002452207622281508
+"country_Germany, Italy",0.0002452207622281508
+"country_Argentina, Chile",0.0002452207622281508
+"country_Argentina, Brazil, France, Poland, Germany, Denmark",0.0002452207622281508
+"country_China, United States, Australia",0.0002452207622281508
+"country_France, Belgium, Luxembourg, Cambodia,",0.0002452207622281508
+"country_South Africa, Nigeria",0.0002452207622281508
+"country_South Korea, China",0.0002452207622281508
+"country_France, Germany",0.0002452207622281508
+"country_Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",0.0002452207622281508
+"country_Singapore, Malaysia",0.0002452207622281508
+"country_Italy, South Africa, West Germany, Australia, United States",0.0002452207622281508
+"country_United States, Israel, Italy, South Africa",0.0002452207622281508
+"country_Denmark, Spain",0.0002452207622281508
+"country_Denmark, France, Poland",0.0002452207622281508
+"country_United Kingdom, United States, Morocco",0.0002452207622281508
+"country_Spain, Canada, United States",0.0002452207622281508
+"country_Soviet Union, India",0.0002452207622281508
+"country_Canada, Germany, South Africa",0.0002452207622281508
+"country_United States, Australia, China",0.0002452207622281508
+"country_United States, Australia, Samoa, United Kingdom",0.0002452207622281508
+"country_Spain, Colombia",0.0002452207622281508
+"country_Israel, Sweden, Germany, Netherlands",0.0002452207622281508
+"country_Canada, France, Italy, Morocco, United States",0.0002452207622281508
+"country_Slovenia, Croatia, Germany, Czech Republic, Qatar",0.0002452207622281508
+"country_Indonesia, Singapore",0.0002452207622281508
+"country_Indonesia, South Korea, Singapore",0.0002452207622281508
+"country_United Kingdom, United States, Czech Republic",0.0002452207622281508
+"country_Taiwan, China",0.0002452207622281508
+"country_Colombia, Peru, United Kingdom",0.0002452207622281508
+"country_Colombia, Mexico",0.0002452207622281508
+"country_Colombia, United States",0.0002452207622281508
+"country_Turkey, Azerbaijan",0.0002452207622281508
+"country_India, Soviet Union",0.0002452207622281508
+"country_Canada, Nigeria, United States",0.0002452207622281508
+"country_Ireland, United States, France",0.0002452207622281508
+"country_Ireland, United Kingdom, Italy, United States",0.0002452207622281508
+"country_Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",0.0002452207622281508
+"country_India, Pakistan",0.0002452207622281508
+"country_India, Australia",0.0002452207622281508
+"country_Iceland, Sweden, Belgium",0.0002452207622281508
+"country_United Kingdom, Canada, Japan",0.0002452207622281508
+"country_India, Iran",0.0002452207622281508
+"country_China, Germany, India, United States",0.0002452207622281508
+"country_United Kingdom, Italy, Israel, Peru, United States",0.0002452207622281508
+"country_United Kingdom, Hungary, Australia",0.00021797401086946736
+"country_Australia, United Kingdom, United Arab Emirates, Canada",0.00021797401086946736
+"country_Australia, United Kingdom, Canada",0.00021797401086946736
+"country_Canada, Hungary, United States",0.00021797401086946736
+"country_United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",0.00021797401086946736
+"country_Australia, France",0.00021797401086946736
+"country_Denmark, United Kingdom, South Africa, Sweden, Belgium",0.00021797401086946736
+"country_United Kingdom, Brazil, Germany",0.00021797401086946736
+"country_United Kingdom, South Africa",0.00021797401086946736
+"country_United Kingdom, Russia, United States",0.00021797401086946736
+"country_United Kingdom, Poland, United States",0.00021797401086946736
+"country_Czech Republic, United Kingdom, France",0.00021797401086946736
+"country_Canada, Luxembourg",0.00021797401086946736
+"country_United Kingdom, South Korea",0.00021797401086946736
+"country_Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",0.00021797401086946736
+"country_Chile, Argentina, France, Spain, United States",0.00021797401086946736
+"country_France, Canada, United States",0.00021797401086946736
+"country_France, Germany, Czech Republic, Belgium",0.00021797401086946736
+"country_Canada, United States, India, United Kingdom",0.00021797401086946736
+"country_United Kingdom, Australia, France, United States",0.00021797401086946736
+"country_United States, Canada, France",0.00021797401086946736
+"country_United States, Canada, Germany",0.00021797401086946736
+"country_United States, Canada, Indonesia, United Kingdom, China, Singapore",0.00021797401086946736
+"country_South Africa, China, United States",0.00021797401086946736
+"country_Germany, France, Luxembourg, United Kingdom, United States",0.00021797401086946736
+"country_France, Malta, United States",0.00021797401086946736
+"country_Germany, France, United States, Canada, United Kingdom",0.00021797401086946736
+"country_United Kingdom, United States, Australia",0.00021797401086946736
+"country_Thailand, Canada, United States",0.00021797401086946736
+"country_South Korea, Czech Republic",0.00021797401086946736
+"country_United States, Australia, Mexico",0.00021797401086946736
+"country_France, Japan",0.00021797401086946736
+"country_France, Germany, Switzerland",0.00021797401086946736
+"country_France, United States, United Kingdom, Canada",0.00021797401086946736
+"country_Denmark, France, United States, Sweden",0.00021797401086946736
+"country_United States, United Kingdom, India",0.00021797401086946736
+"country_United States, United Kingdom, Germany, Hungary",0.00021797401086946736
+"country_United States, United Kingdom, Italy",0.00021797401086946736
+"country_Spain, France, United Kingdom, United States",0.00021797401086946736
+"country_Switzerland, United Kingdom, Australia",0.00021797401086946736
+"country_South Africa, United States, Japan",0.00021797401086946736
+"country_Germany, United States, France",0.00021797401086946736
+"country_United Kingdom, France, Germany",0.00021797401086946736
+"country_Canada, Spain, France",0.00021797401086946736
+"country_Canada, Belgium",0.00021797401086946736
+"country_Bulgaria, United States",0.00021797401086946736
+country_Bulgaria,0.00021797401086946736
+"country_United Kingdom, France, Belgium, Canada, United States",0.00021797401086946736
+"country_South Africa, United States, New Zealand, Canada",0.00021797401086946736
+"country_Germany, United States, Hong Kong, Singapore",0.00021797401086946736
+"country_United States, Nicaragua",0.00021797401086946736
+"country_Ireland, United Kingdom, Greece, France, Netherlands",0.00021797401086946736
+"country_Ireland, United States",0.00021797401086946736
+"country_United States, Germany, United Kingdom",0.00021797401086946736
+"country_Russia, United States, China",0.00021797401086946736
+"country_United States, United Kingdom, Denmark, Sweden",0.00021797401086946736
+"country_United States, Thailand",0.00021797401086946736
+"country_United States, United Kingdom, France, Germany, Japan",0.00021797401086946736
+"country_Germany, Canada, United States",0.00021797401086946736
+"country_United States, Sweden, Norway",0.00021797401086946736
+"country_United States, Switzerland",0.00021797401086946736
+"country_United States, Cambodia, Romania",0.00021797401086946736
+"country_United States, Canada, Belgium, United Kingdom",0.00021797401086946736
+"country_United States, China, Colombia",0.00021797401086946736
+"country_United States, Chile, Israel",0.00021797401086946736
+"country_United States, Spain, Germany",0.00021797401086946736
+"country_Hong Kong, China, Singapore",0.00021797401086946736
+"country_United States, Italy, Romania, United Kingdom",0.00021797401086946736
+"country_United Kingdom, France, Poland, Germany, United States",0.00021797401086946736
+"country_United Kingdom, Czech Republic, Germany, United States",0.00021797401086946736
+"country_United Kingdom, China, United States, India",0.00021797401086946736
+"country_Brazil, France, Germany",0.00021797401086946736
+"country_United States, Italy, France, Japan",0.00021797401086946736
+"country_Netherlands, Belgium, United Kingdom, United States",0.00021797401086946736
+"country_Mexico, Spain",0.00021797401086946736
+"country_Ireland, Luxembourg, Belgium",0.00021797401086946736
+"country_Ireland, Canada, United Kingdom, United States",0.00021797401086946736
+"country_United Kingdom, Jordan, Qatar, Iran",0.00019072725951078395
+"country_United Kingdom, Japan",0.00019072725951078395
+"country_France, Belgium, Luxembourg, Romania, Canada, United States",0.00019072725951078395
+"country_United Kingdom, Spain, United States",0.00019072725951078395
+"country_France, Belgium, United States",0.00019072725951078395
+"country_Germany, United States, Canada",0.00019072725951078395
+"country_France, Canada, China, Cambodia",0.00019072725951078395
+"country_United Kingdom, South Africa, France",0.00019072725951078395
+"country_Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",0.00019072725951078395
+"country_United Kingdom, Canada, France, United States",0.00019072725951078395
+"country_United Kingdom, Germany, Canada, United States",0.00019072725951078395
+"country_United Kingdom, Norway, Denmark, Germany, Sweden",0.00019072725951078395
+"country_Canada, United States, Germany",0.00019072725951078395
+"country_China, Hong Kong, United States",0.00019072725951078395
+"country_Czech Republic, United Kingdom, United States",0.00019072725951078395
+"country_Spain, Thailand, United States",0.00019072725951078395
+"country_United Kingdom, United States, Dominican Republic",0.00019072725951078395
+"country_United Kingdom, United States, France, Germany",0.00019072725951078395
+"country_Sweden, United Kingdom, Finland",0.00019072725951078395
+"country_United Kingdom, United States, France, Italy",0.00019072725951078395
+"country_Switzerland, France, Belgium, United States",0.00019072725951078395
+"country_Switzerland, France",0.00019072725951078395
+"country_United States, United Kingdom, Spain, South Korea",0.00019072725951078395
+"country_United States, United Kingdom, New Zealand",0.00019072725951078395
+"country_United States, United Kingdom, Japan",0.00019072725951078395
+"country_Taiwan, Hong Kong, United States, China",0.00019072725951078395
+"country_United States, Canada, Ireland",0.00019072725951078395
+"country_Iran, France",0.00019072725951078395
+"country_Norway, United Kingdom, France, Ireland",0.00019072725951078395
+"country_United States, Germany, United Kingdom, Italy",0.00019072725951078395
+"country_India, United Kingdom, France, Qatar",0.00019072725951078395
+"country_Hong Kong, Iceland, United States",0.00019072725951078395
+"country_United States, United Kingdom, Australia",0.00019072725951078395
+"country_United States, United Kingdom, Canada, China",0.00019072725951078395
+"country_United States, Czech Republic, United Kingdom",0.00019072725951078395
+"country_United States, Germany, Australia",0.00019072725951078395
+"country_United States, Germany, Mexico",0.00019072725951078395
+"country_United States, Germany, United Kingdom, Australia",0.00019072725951078395
+"country_Germany, United States, United Kingdom, Canada",0.00019072725951078395
+"country_United States, Norway, Canada",0.00019072725951078395
+"country_New Zealand, United States",0.00019072725951078395
+"country_Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",0.00019072725951078395
+"country_United States, Italy, United Kingdom, Liechtenstein",0.00019072725951078395
+"country_United States, India, France",0.00019072725951078395
+"country_Portugal, United States",0.00019072725951078395
+"country_United States, France, Italy, United Kingdom",0.00019072725951078395
+"country_Italy, Switzerland, France, Germany",0.00019072725951078395
+"country_United States, Greece",0.00019072725951078395
+"country_United States, Malta, France, United Kingdom",0.00019072725951078395
+"country_United States, Morocco",0.00019072725951078395
+"country_United Kingdom, China, United States",0.00019072725951078395
+"country_United Kingdom, Czech Republic, United States, Germany, Bahamas",0.00019072725951078395
+"country_Canada, Germany",0.00019072725951078395
+"country_Belgium, United Kingdom",0.00019072725951078395
+"country_United Kingdom, Canada, United States, Cayman Islands",0.00016348050815210053
+"country_New Zealand, United Kingdom, Australia",0.00016348050815210053
+"country_China, United States, United Kingdom",0.00016348050815210053
+"country_China, United States, Canada",0.00016348050815210053
+"country_Canada, South Korea, United States",0.00016348050815210053
+"country_France, China, Japan, United States",0.00016348050815210053
+"country_Spain, United Kingdom, United States",0.00016348050815210053
+"country_France, Luxembourg, Canada",0.00016348050815210053
+"country_United States, Belgium, Canada, France",0.00016348050815210053
+"country_United States, France, Canada, Lebanon, Qatar",0.00016348050815210053
+"country_Germany, United Kingdom, United States",0.00016348050815210053
+"country_France, Canada, Belgium",0.00016348050815210053
+"country_United States, France, Canada, Belgium",0.00016348050815210053
+"country_Switzerland, Vatican City, Italy, Germany, France",0.00016348050815210053
+"country_United States, Cambodia",0.00016348050815210053
+"country_India, United Kingdom, China, Canada, Japan, South Korea, United States",0.00016348050815210053
+"country_United States, France, United Kingdom, Japan",0.00016348050815210053
+"country_Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",0.00016348050815210053
+"country_United States, New Zealand, United Kingdom",0.00016348050815210053
+"country_United States, Greece, Brazil",0.00016348050815210053
+"country_United States, India, United Arab Emirates",0.00016348050815210053
+"country_United States, India, United Kingdom",0.00016348050815210053
+"country_United Kingdom, Australia, France",0.00016348050815210053
+"country_United States, India, Bangladesh",0.0001362337567934171
+"country_Venezuela, Colombia",0.0001362337567934171
+"country_Canada, United Kingdom, Netherlands",0.0001362337567934171
+"country_Australia, United Kingdom, United States, New Zealand, Italy, France",0.0001362337567934171
+"country_Denmark, Zimbabwe",0.0001362337567934171
+"country_China, South Korea, United States",0.0001362337567934171
+"country_United Kingdom, Australia, Canada, United States",0.0001362337567934171
+"country_France, Belgium, Spain",0.00010907521115144134
+"country_Canada, Japan, United States",8.174025407605027e-05
+"country_United States, East Germany, West Germany",8.174025407605027e-05
+"country_United Kingdom, France, Belgium, Ireland, United States",8.174025407605027e-05
+rating_84 min,5.482907548589945e-05
+rating_74 min,2.724675135868342e-05
+"country_Peru, United States, United Kingdom",0.0
+"country_Peru, Germany, Norway",0.0
+"country_United Kingdom, France, Belgium, United States",0.0
+Sports Movies,0.0
+"country_United Kingdom, France, Spain, United States",0.0
+"country_New Zealand, Australia, France, United States",0.0
+"country_New Zealand, United Kingdom",0.0
+"country_Argentina, France",0.0
+"country_United Kingdom, Denmark, Canada, Croatia",0.0
+"country_United Kingdom, China",0.0
+"country_Bulgaria, United States, Spain, Canada",0.0
+"country_Australia, United Kingdom",0.0
+"country_United Kingdom, France, Belgium",0.0
+"country_Brazil, Netherlands, United States, Colombia, Austria, Germany",0.0
+"country_Canada, France, United States",0.0
+"country_Belgium, United Kingdom, United States",0.0
+"country_Canada, India, Thailand, United States, United Arab Emirates",0.0
+"country_Canada, Germany, France, United States",0.0
+"country_United States, Israel, United Kingdom, Canada",0.0
+"country_United States, France, Serbia",0.0
+"country_Norway, Sweden",0.0
+"country_Norway, Germany, Sweden",0.0
+"country_Russia, Poland, Serbia",0.0
+"country_Hungary, United States",0.0
+"country_Singapore, France",0.0
+"country_Saudi Arabia, United Arab Emirates",0.0
+"country_India, Germany, France",0.0
+"country_Philippines, Singapore, Indonesia",0.0
+"country_Spain, France, Italy",0.0
+"country_Poland,",0.0
+"country_United States, Brazil, Japan, Spain, India",0.0
+"country_United States, United Kingdom, Canada, Japan",0.0
+"country_United States, Taiwan",0.0
+"country_United States, Canada, China",0.0
+"country_Ireland, Switzerland, United Kingdom, France, United States",0.0
+country_Luxembourg,0.0
+"country_Israel, Germany",0.0
+"country_Jamaica, United States",0.0
+"country_India, Canada",0.0
+"country_United States, South Korea, Japan",0.0
+"country_India, Malaysia",0.0
+"country_Israel, Germany, Poland, Luxembourg, Belgium, France, United States",0.0
+"country_Poland, West Germany",0.0
+"country_United States, Indonesia",0.0
+"country_Norway, Denmark, Netherlands, Sweden",0.0
+"country_Italy, Canada, France",0.0
+"country_Romania, United States",0.0
+"country_United States, France, Canada, Spain",0.0
+"country_United States, Ireland, United Kingdom, India",0.0
+"country_United States, France, Mexico",0.0
+"country_Germany, Sri Lanka",0.0
+"country_South Africa, Angola",0.0
+"country_Somalia, Kenya, Sudan, South Africa, United States",0.0
+"country_United States, Canada, United Kingdom",0.0
+"country_Uruguay, Argentina, Spain",0.0
+"country_Switzerland, United States",0.0
+"country_Switzerland, United Kingdom, United States",0.0
+"country_South Africa, United States, Germany",0.0
+"country_France, South Korea, Japan",0.0
+"country_Uruguay, Germany",0.0
+"country_France, Switzerland, Spain, United States, United Arab Emirates",0.0
+"country_United States, Denmark",0.0
+"country_United States, China, Canada",0.0
+"country_Hong Kong, Canada, United States",0.0
+country_Guatemala,0.0
+"country_Ghana, United States",0.0
+"country_France, Iran, United States",0.0
+"country_Spain, Italy, Argentina",0.0
+"country_Spain, Cuba",0.0
+"country_France, United States, Mexico",0.0
+"country_Finland, United States",0.0
+"country_Denmark, Germany, Belgium, United Kingdom, France",0.0
+"country_France, Belgium, China, United States",0.0
+"country_France, Algeria",0.0
+"country_Spain, France, Canada, United States",0.0
+"country_Taiwan, Malaysia",0.0
+"country_Thailand, China, United States",0.0
+"country_Spain, France, Canada",0.0
+"country_United States, Brazil",0.0
+"country_United Kingdom, United States, Canada",0.0
+"country_Uruguay, Spain, Mexico",0.0
+"country_France, Qatar",0.0
+"country_Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",0.0
+"country_Sweden, Netherlands",0.0
+"country_United Arab Emirates, United States, United Kingdom",0.0
+"country_Egypt, Austria, United States",0.0
+"country_United Kingdom, Australia, United States",0.0
+"country_Finland, Germany",0.0
+country_Finland,0.0
+"country_Egypt, Denmark, Germany",0.0
+"country_Canada, United States, Denmark",0.0
+"country_Canada, United States, Mexico",0.0
+"country_China, Japan",0.0
+"country_Canada, Mexico, Germany, South Africa",0.0
+"country_France, Canada, United States, Spain",0.0
+"country_France, Canada, Italy, United States, China",0.0
+"country_United Kingdom, United States, France",0.0
+"country_United Kingdom, United States, Germany, Denmark, Belgium, Japan",0.0
+"country_United Kingdom, New Zealand",0.0
+"country_United Kingdom, Russia",0.0
+"country_Chile, France",0.0
+"country_Chile, Peru",0.0
+"country_Australia, India",0.0
+"country_Australia, France, Ireland",0.0
+"country_Argentina, Uruguay, Spain, France",0.0
+"country_Denmark, Germany, Belgium, United Kingdom, France, Sweden",0.0
+"country_Argentina, Uruguay, Serbia",0.0
+"country_Austria, Iraq, United States",0.0
+"country_Argentina, Chile, Peru",0.0
+"country_United Kingdom, India, Sweden",0.0
+LGBTQ Movies,0.0
+"country_United Kingdom, Germany, United Arab Emirates, New Zealand",0.0
+"country_United Kingdom, Germany, Spain, United States",0.0
+"country_United Kingdom, Germany, France, United States",0.0

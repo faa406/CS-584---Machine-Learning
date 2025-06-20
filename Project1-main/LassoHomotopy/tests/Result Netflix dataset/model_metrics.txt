@@ -1,0 +1,6 @@
+Model Performance Metrics:
+MSE: 0.0460
+RMSE: 0.2144
+R²: 0.9882
+MAE: 0.0077
+Accuracy: 99.94%
